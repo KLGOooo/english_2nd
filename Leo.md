@@ -102,7 +102,7 @@ Leo
 
 ### 2024.10.08
 
-Today I mainly study A-Programmers-Guide-to-English, know the logic of learning English, and the importance of corpora
+Today I mainly study A-Programmers-Guide-to-English, know the logic of learning English, and the importance of corpora.
 
 ### 2024.10.09
 
