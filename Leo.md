@@ -60,7 +60,8 @@ timezone: Asia/Shanghai
 
 > 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。 报名需要按要求认真填写下面 [ YourName ] 自我介绍部分，方便大家互相认识，报名通过审核即可开始自主学习。
 
-# [your name]
+# [your name] 
+Leo
 
 [Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
 
@@ -68,7 +69,7 @@ timezone: Asia/Shanghai
 
 [Yes 100% or Maybe xx%]
 
----
+---maybe 99%
 
 **共学节奏参考：**
 
@@ -101,7 +102,7 @@ timezone: Asia/Shanghai
 
 ### 2024.10.08
 
-
+Today I mainly study A-Programmers-Guide-to-English, know the logic of learning English, and the importance of corpora
 
 ### 2024.10.09
 
