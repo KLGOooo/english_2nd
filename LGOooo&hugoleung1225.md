@@ -108,7 +108,11 @@ I already wrote notes yesterday, but I didn’t know how to use github, so I del
 I completed the Duolingo training today and read the recommended book list, How to Learn English.
 
 ### 2024.10.10
-
+今天看了《A Programmer's Guide to English》，理解英语还是要练习、练习、再练习
+1.单词，遇到不认识的，可以上youglish，了解其含义，并放到Anki上
+2.听力，还是要进行静听和泛听，尽力使自己听懂，可先盲听，不懂的进行学习，再反复听语料
+3.口语，进行影子跟读，训练肌肉记忆
+4.写作，看恶魔奶爸的书
 
 
 ### 2024.10.09
